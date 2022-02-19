@@ -16,3 +16,11 @@ https://nemutas.github.io/r3f-small-universe/
 # Reference
 * [Exploding 3D Objects with Three.js](https://tympanus.net/codrops/2019/03/26/exploding-3d-objects-with-three-js/)
 * [Creating the Effect of Transparent Glass and Plastic in Three.js](https://tympanus.net/codrops/2021/10/27/creating-the-effect-of-transparent-glass-and-plastic-in-three-js/)
+
+# License
+This source code is not MIT License.
+
+❌ Commercial use is prohibited.<br>
+❌ Redistribution is prohibited.<br>
+❌ Diversion is prohibited.<br>
+✅ you can possible to learn by looking at the code and to use parts of it.
