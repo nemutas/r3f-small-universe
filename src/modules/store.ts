@@ -18,5 +18,5 @@ export const focusPassState = {
 export const cameraState: CameraState = {
 	wheelAmount: 0,
 	animationEnabled: true,
-	zoom: 'up'
+	zoom: 'out'
 }

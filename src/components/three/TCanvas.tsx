@@ -14,8 +14,7 @@ export const TCanvas: VFC = () => {
 	return (
 		<Canvas
 			camera={{
-				// position: [0, 0, 8],
-				position: [0, 0, 3.2],
+				position: [0, 0, 8],
 				fov: 50,
 				aspect: window.innerWidth / window.innerHeight,
 				near: 0.1,
