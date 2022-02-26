@@ -2,6 +2,7 @@ import React, { VFC } from 'react';
 import { css } from '@emotion/css';
 import { cameraState } from '../modules/store';
 import { Balloon } from './Balloon';
+import { LinkIconButton } from './LinkIconButton';
 import { TCanvas } from './three/TCanvas';
 
 export const App: VFC = () => {
@@ -20,6 +21,7 @@ export const App: VFC = () => {
 		<div className={styles.container} onWheel={wheelHandle}>
 			<TCanvas />
 			<Balloon />
+			<LinkIconButton imagePath="/assets/icons/github.svg" linkPath="https://github.com/nemutas/r3f-small-universe" />
 		</div>
 	)
 }
